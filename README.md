@@ -24,6 +24,7 @@ This is the Knowledge Capsule repo for Machine Learning domains.
   - [Classification](#classification)
   - [Clustering](#clustering)
   - [Deep Learning](#deep-learning)
+- [Article](#article)
 - [Reference](#reference)
 
 
@@ -345,6 +346,15 @@ The theoretical basis of Generative Model is based on statistics and Bayes' theo
     - Convolutional neural networks (CNN)
 
 
+# Article
+- 熵: https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651640884&idx=3&sn=33c5193dc2039afe1309b5020c2ee7b9
+- 数学之美番外篇：平凡而又神奇的贝叶斯方法: http://mindhacks.cn/2008/09/21/the-magical-bayesian-method/
+- 逻辑回归：从入门到精通: https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651640992&idx=1&sn=865a67e910e78ade51af745499a30cd7
+- 12条可视化的秘密准则: https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651647207&idx=1&sn=05803530428bb5ca6d65783b51d72ea7
+- 十五个数据可视化的奇妙例子: https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651642820&idx=1&sn=2cb294a4dbf9b2d3baeacc39e8a33792
+- 谷歌首席决策工程师的一分钟入门指南: https://mp.weixin.qq.com/s/a-5YesGVuqzVUOghwrZKHw
+- 数据库种类：https://mp.weixin.qq.com/s/lzm0_tZIpYW2yehEvJ9EeA
+- Classification Model Pros and Cons: https://github.com/ctufts/Cheat_Sheets/wiki/Classification-Model-Pros-and-Cons
 
 
 # Reference
@@ -365,4 +375,3 @@ The theoretical basis of Generative Model is based on statistics and Bayes' theo
 - 生成模型 VS 判别模型 （含义、区别、对应经典算法）: https://blog.csdn.net/u010358304/article/details/79748153
 - 机器学习“判定模型”和“生成模型”有什么区别: https://www.zhihu.com/question/20446337/answer/256466823
 - 14 Different Types of Learning in Machine Learning: https://machinelearningmastery.com/types-of-learning-in-machine-learning/
-
